@@ -1,0 +1,2 @@
+“Friend”, “Bird”, “Apple”, “Spiderman”, “School” , “Java”, “Police”, “Phone”
+
